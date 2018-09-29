@@ -1,0 +1,21 @@
+cd ~ # change directories to your home directory
+mkdir ....  # make directory
+cd ... # go to directory
+subl ....  # create or open sublime file
+
+to compare to files us cf file1 file2
+
+to add a program to commandline go to system/advanced system files then go to enviromental variables
+Then under System Variables add a NAME and the full path
+Then under System Variables  add a line that has %NAME%
+
+git log -> For a log of change
+git log --stat -> stat of the chagnes
+git log --all -> entire list
+git diff versionnumber1 versionnumber2    -> differences in files
+
+git clone https://xxx  -> clone/download entire respostitory
+
+git checkout versionnumber -> checkouts an older verision
+
+mv -> move file
